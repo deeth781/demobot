@@ -1,0 +1,46 @@
+cái trên này tháng dùng 1 lần cũng được để dọn ram cache tránh die config.temp hoặc nếu đang die thì dùng lệnh dưới đây là hết die temp
+-------------------------------------------------------------------------------
+rm -fr modules/commands/cache/*.m4a 
+rm -fr modules/commands/cache/*.mp4
+rm -fr modules/commands/cache/*.png 
+rm -fr modules/commands/cache/*.jpg
+rm -fr modules/commands/cache/*.mp3
+rm -fr modules/commands/cache/*.gif
+--------------------------------------------------------------------------------
+
+cái bên dưới này tuần 1 lần , nếu rảnh thì code thêm lệnh cho đỡ tốn time dùng tay
+rm -fr modules/commands/tuongtac/*
+
+
+-----------------------------------------------------------------
+chăm chỉ dùng lên nếu muốn file mượt
+------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------
+CHÚ Ý Ở ĐÂY , ĐỪNG BỎ QUA CÁI CHÚ Ý NÀY NHÉ
+------------------------------------------------------------------------
+file mình share nó cũng rất ngon, yêu cầu k đem bán hoặc thay cre edit thanks
+
+Tuy rằng file chưa hoàn thiện nhưng vẫn là 1 file ngon, mn chú ý để tránh bị mất acc nhé
+file không có keylog nên không phải lo, Hãy chú ý fork đúng nguồn nhé nguồn file của mình là 
+
+https://replit.com/@handeptrai/marisv45    
+
+nếu không phải link trên thì đừng có fork thanks
+-----------------------------------------------------------------------------------
+tớ là vũ văn tuấn, hẹn mọi người khi tớ trở lại
+
+bản v4 này có thêm vài mdl ngon như
+antispam
+spam
+taglientuc
+reply
+và 1 số lệnh khác nữa
+
+mong rằng các bạn xử dụng sản phẩm của mình cho mục đích tốt
+
+có sẵn ẩn app rồi, cứ lo chạy nhé , khỏi lo vấn đề check app, nếu biết fork qua rep team thì cứ fork qua, có ẩn file sẽ rất tiện
+
+Mod sao là việc của các bạn nhé=)) tạm biệt<3
